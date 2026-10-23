@@ -1,8 +1,8 @@
 ---
-name: Bug report or feature request
-about: Report a problem with, or suggest a change to, any EZ Tool (command line tools, GUIs or libraries)
+name: Bug report
+about: Report a problem with any EZ Tool (command line tools, GUIs or libraries)
 title: "Tool: short description of issue"
-labels: ''
+labels: 'bug'
 assignees: ''
 ---
 
@@ -12,9 +12,10 @@ Please replace the title above with "Tool: short description of issue". For exam
   Timeline Explorer: Copy from the Details pane does not work
   Registry Explorer: Find dialog menu items do nothing
   MFTECmd: --csv output missing rows for $LogFile (2026.10.0)
-  AmcacheParser: Add OriginalFileName to the output
   SBECmd: --json never writes any output
-  All tools: Add multi-language selection
+  JumpList Explorer: Target Accessed and Modified dates are switched
+
+To suggest a new feature or a change, use the Feature request template instead.
 
 Delete any section below that does not apply. Comments like this one are hidden when the issue is posted, so they can stay.
 -->
